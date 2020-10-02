@@ -11,3 +11,7 @@ The tweets are analysed and their polarity is measured differentiating them as p
 The two appraches at the twitter sentiment analysis-
 1. Using simple automation APIs like Tweepy, that is easy to use and helps access the twitter API. With Tweepy, the accuracy of the sentiment in the tweets is not the best as it is a pre-defined library that has the key phrases and adjectives pre programmed into it. While it can identify the major words present in a sentence while categorising tweets, some tweets that seem ambiguous can be placed in the wrong category due to human language and slang variations.
 2. As sentiment analysis originally combines Natural Language processing with its other techniques, using the NLTK(Natural Language ToolKit) to perform test analysis provides less scope of the previously mentioned ambiguity. NLTK uses many modules along with the NaiveBayesClassifier that works on the Bayes Probability to work on datasets to perform the segregation of sentiments. Although NLTK in itself is a big package, combining simple APIs with the tools of NLTK provides better accuracy.
+
+# API
+Application Package Interface. Instead of writting millions of code we can use simply the api and get information about it. There are number of projects you could do with API in a simple and effiecient way. For example :- Price Comparison , Password Checker etc. 
+You can check out an efficient way to use API to check password safely ![Password Checker](https://github.com/sauravchaudharysc/Password-Checker) 
